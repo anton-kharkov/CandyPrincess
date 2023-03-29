@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CandyPrincess</string>
+    <string name="play">Play</string>
+    <string name="private_policy">Private Policy</string>
+    <string name="exit">Exit</string>
+    <string name="score">Score</string>
+    <string name="last_result">Last result</string>
+    <string name="score_key">scoreKay</string>
+    <string name="score_pref">scorePref</string>
+    <string name="bit">Bit</string>
+    <string name="spin">SPIN</string>
+</resources>
